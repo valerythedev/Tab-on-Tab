@@ -1,0 +1,12 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background: rgb(169, 175, 176);
+  color: rgb(13, 97, 95);
+}
+img{
+  height: 200px;
+}
+*{
+  margin: 0%;
+}
